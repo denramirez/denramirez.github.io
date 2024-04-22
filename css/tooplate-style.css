@@ -40,7 +40,7 @@ p {
 
 .white-border-button a:hover {
   background-color: #fff;
-  color: #517df0;
+  color: #acece8;
 }
 
 .blue-border-button a {
@@ -223,7 +223,7 @@ p {
 }
 #primary-nav li > a:hover,
 #primary-nav li.selected > a {
-  color: #517df0;
+  color:#acece8;
 }
 
 .sub-menu li a {
@@ -732,7 +732,7 @@ a.active:after {
 }
 
 .banner .left-content {
-  background-color: #517df0;
+  background-color: #acece8;
   height: 800px;
   display: block;
 }
@@ -759,7 +759,7 @@ a.active:after {
   height: 800px;
   width: 100%;
   display: block;
-  background: #517df0; /* Old browsers */
+  background: #acece8; /* Old browsers */
   background: -moz-linear-gradient(left, #acece8 50%, #eeeeee 50%); /* FF3.6-15 */
   background: -webkit-linear-gradient(left, #acece8 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to right, #acece8 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
@@ -811,7 +811,7 @@ a.active:after {
 }
 
 .banner .right-content .owl-dots .active span {
-  background-color: #517df0!important;
+  background-color: #acece8 !important;
 }
 
 .banner .right-content .owl-dots button {
@@ -834,7 +834,7 @@ a.active:after {
 /* Template Presentation Style */
 
 .template-presentation {
-  background-color: #343e55;
+  background-color: #acece8;
   padding-top: 100px;
 }
 
@@ -888,7 +888,7 @@ a.active:after {
 .left-right-image h2 {
   margin-top: 25px;
   font-size: 24px;
-  color: #517df0;
+  color: #acece8;
   font-weight: 700;
   line-height: 30px;
 }
@@ -926,7 +926,7 @@ a.active:after {
 }
 
 .video .text-content {
-  background-color: #517df0;
+  background-color: #acece8;
   display: block;
 }
 
@@ -945,7 +945,7 @@ a.active:after {
 }
 
 .video .text-content {
-  background-color: #517df0;
+  background-color: #acece8;
   height: 500px;
 }
 
@@ -1006,7 +1006,7 @@ a.active:after {
   display: inline-block;
   text-align: center;
   line-height: 70px;
-  color: #517df0;
+  color: #acece8;
   background-color: #fff;
   font-size: 18px;
   border-radius: 50%;
@@ -1046,7 +1046,7 @@ footer .footer-item ul li a {
 }
 
 footer .footer-item ul li a:hover {
-  color: #517df0;
+  color: #acece8;
 }
 
 footer .footer-item ul.social-icons {
@@ -1072,11 +1072,11 @@ footer .footer-item ul.social-icons li a {
 }
 
 footer .footer-item ul.social-icons li a:hover {
-  background-color: #517df0;
+  background-color: #acece8;
 }
 
 .sub-footer {
-  background-color: #517df0;
+  background-color: #acece8;
   text-align: center;
 }
 
@@ -1107,11 +1107,11 @@ footer .footer-item ul.social-icons li a:hover {
 
   .banner .center-image {
     height: 50vh;
-    background: #517df0; /* Old browsers */
-    background: -moz-linear-gradient(top, #517df0 50%, #eeeeee 50%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #517df0 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #517df0 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#517df0', endColorstr='#eeeeee',GradientType=1 ); /* IE6-9 */
+    background: #acece8; /* Old browsers */
+    background: -moz-linear-gradient(top, #acece8 50%, #eeeeee 50%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #acece8 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #acece8 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#acece8', endColorstr='#eeeeee',GradientType=1 ); /* IE6-9 */
   }
 
   .banner .right-content {
