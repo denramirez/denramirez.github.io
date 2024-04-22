@@ -47,9 +47,9 @@ p {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #517df0;
+  color: #acece8;
   padding: 12px 20px;
-  border: 1px solid #517df0;
+  border: 1px solid #acece8;
   border-radius: 24px;
   letter-spacing: 0.5px;
   text-decoration: none;
@@ -57,7 +57,7 @@ p {
 }
 
 .blue-border-button a:hover {
-  background-color: #517df0;
+  background-color: #acece8;
   color: #fff;
 }
 
@@ -67,7 +67,7 @@ p {
   font-weight: 700;
   color: #fff;
   padding: 12px 20px;
-  background-color: #517df0;
+  background-color: #acece8;
   border-radius: 24px;
   letter-spacing: 0.5px;
   text-decoration: none;
@@ -106,7 +106,7 @@ p {
 }
 
 .inner-header #header {
-  background-color: #517df0;
+  background-color: #acece8;
   height: 110px;
   position: relative;
 }
@@ -153,7 +153,7 @@ p {
   /* content: 'Ã¢ËœÂ°'; */
   content: '\2261';
   display: inline-block;
-  background-color: #517df0;
+  background-color: #acece8;
   font-size: 36px;
   font-style: normal;
   font-weight: normal;
@@ -380,7 +380,7 @@ p {
 .heading-page .line-dec {
   width: 60px;
   height: 3px;
-  background-color: #517df0;
+  background-color: #acece8;
 }
 
 
@@ -464,11 +464,11 @@ p {
 }
 
 a.active {
-  color: #517df0;
+  color: #acece8;
 }
 
 a.active:after {
-  background-color: #517df0;
+  background-color: #acece8;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -760,9 +760,9 @@ a.active:after {
   width: 100%;
   display: block;
   background: #517df0; /* Old browsers */
-  background: -moz-linear-gradient(left, #517df0 50%, #eeeeee 50%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #517df0 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #517df0 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background: -moz-linear-gradient(left, #acece8 50%, #eeeeee 50%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #acece8 50%,#eeeeee 50%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #acece8 50%,#eeeeee 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#517df0', endColorstr='#eeeeee',GradientType=1 ); /* IE6-9 */
   }
 
